@@ -1,0 +1,9 @@
+.DS_Store
+.env*
+!.env.sample
+.vscode/
+dist/
+docs/
+logs/
+node_modules/
+tmp/

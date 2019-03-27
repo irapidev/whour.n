@@ -1,0 +1,24 @@
+{
+  "name": "whour",
+  "version": "0.0.0",
+  "description": "Who You Are, is an IP to location service.",
+  "main": "dist/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapidevelop/whour.git"
+  },
+  "keywords": [],
+  "author": "Iman Vafadarnezhad",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/rapidevelop/whour/issues"
+  },
+  "homepage": "https://github.com/rapidevelop/whour#readme"
+}
